@@ -1,0 +1,5 @@
+lama-index 
+qdrant_client 
+torch 
+transformers 
+lama-index-llms-ollama
